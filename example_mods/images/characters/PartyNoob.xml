@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PartyNoob.png">
+<SubTexture name="PartyNoob Down0000" x="0" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Down0001" x="771" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Down0002" x="1542" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Down0003" x="0" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Down0004" x="771" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0000" x="1542" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0001" x="2313" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob idle0000" x="2313" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0002" x="0" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0003" x="771" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0004" x="1542" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Left0005" x="2313" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Right0000" x="3084" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Right0001" x="3084" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Right0002" x="3084" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Right0003" x="3855" y="0" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Right0004" x="3855" y="1000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0000" x="3855" y="2000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0001" x="0" y="3000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0002" x="771" y="3000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0003" x="1542" y="3000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0004" x="2313" y="3000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Up0005" x="3084" y="3000" width="771" height="1000" frameX="-705" frameY="0" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0000" x="492" y="4000" width="512" height="882" frameX="-842" frameY="-113" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0001" x="492" y="4000" width="512" height="882" frameX="-842" frameY="-113" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0002" x="0" y="4000" width="492" height="911" frameX="-854" frameY="-84" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0003" x="0" y="4000" width="492" height="911" frameX="-854" frameY="-84" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0004" x="3855" y="3000" width="471" height="926" frameX="-868" frameY="-69" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob idle0000" x="3855" y="3000" width="471" height="926" frameX="-868" frameY="-69" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0005" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0006" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0007" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0008" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0009" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0010" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0011" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+<SubTexture name="PartyNoob Idle0012" x="4626" y="0" width="455" height="924" frameX="-881" frameY="-71" frameWidth="2000" frameHeight="1000" />
+</TextureAtlas>

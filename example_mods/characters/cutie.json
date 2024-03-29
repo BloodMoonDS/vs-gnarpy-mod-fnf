@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				131
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PartyNoob Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				430,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PartyNoob Left"
+		},
+		{
+			"offsets": [
+				430,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRight",
+			"loop": false,
+			"name": "PartyNoob Right"
+		},
+		{
+			"offsets": [
+				430,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PartyNoob Down"
+		},
+		{
+			"offsets": [
+				430,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PartyNoob Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PartyNoob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

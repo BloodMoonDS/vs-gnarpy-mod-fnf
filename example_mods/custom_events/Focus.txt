@@ -1,0 +1,5 @@
+Flashes Camera
+
+Value 1: 1 is on 0 is off
+
+Value 2: 

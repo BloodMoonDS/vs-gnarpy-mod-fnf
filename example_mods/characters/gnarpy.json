@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				740,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Gnarpy Idle"
+		},
+		{
+			"offsets": [
+				737,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Gnarpy Left"
+		},
+		{
+			"offsets": [
+				711,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Gnarpy Down"
+		},
+		{
+			"offsets": [
+				740,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Gnarpy Up"
+		},
+		{
+			"offsets": [
+				755,
+				102
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Gnarpy Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gnarpy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gnarpy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		90
+	],
+	"camera_position": [
+		-500,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
